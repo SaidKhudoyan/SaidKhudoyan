@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaidKaloev
+- 👋 Hi, I’m @SaidKhudoyan
 - I'm just a guy who likes Machine Learning/Deep Learning,Astrophysics, Medical Engineering, Cryptocurrency and Stocks trading
 - My main goal? Trying my best to contribute to society.
 
